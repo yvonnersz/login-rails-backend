@@ -1,4 +1,4 @@
-module CurrentUserConcern < ApplicationController
+module CurrentUserConcern
     extend ActiveSupport::Concern
 
     included do
